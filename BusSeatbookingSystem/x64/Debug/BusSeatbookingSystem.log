@@ -1,0 +1,42 @@
+﻿  Bus.cpp
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Bus.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bus.cpp')
+  
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Bus.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bus.cpp')
+  
+  BusSeatbookingSystem.cpp
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\BusSeatbookingSystem.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Bus.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BusSeatbookingSystem.cpp')
+  
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Bus.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BusSeatbookingSystem.cpp')
+  
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\BusSeatbookingSystem.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\BusSeatbookingSystem.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\BusSeatbookingSystem.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\BusSeatbookingSystem.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Functions.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BusSeatbookingSystem.cpp')
+  
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Functions.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BusSeatbookingSystem.cpp')
+  
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Functions.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BusSeatbookingSystem.cpp')
+  
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Functions.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BusSeatbookingSystem.cpp')
+  
+  LinkedList.cpp
+  Route.cpp
+  Seat.cpp
+  Generating Code...
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Functions.h(238,1): warning C4715: 'BookingSeats': not all control paths return a value
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Functions.h(428,1): warning C4715: 'AdminloginMenu': not all control paths return a value
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Functions.h(272,1): warning C4715: 'SeatBooking': not all control paths return a value
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Functions.h(346,1): warning C4715: 'eachSeatCancel': not all control paths return a value
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Bus.h(240,1): warning C4715: 'BusList::getByCode': not all control paths return a value
+D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\BusSeatbookingSystem\Bus.h(221,1): warning C4715: 'BusList::searchByCode': not all control paths return a value
+  BusSeatbookingSystem.vcxproj -> D:\SEMESTER 3\SEMESTER 3\EE 3351\Project\BusSeatbookingSystem.4\x64\Debug\BusSeatbookingSystem.exe
