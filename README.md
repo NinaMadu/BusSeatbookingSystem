@@ -1,0 +1,1 @@
+Developed a C++ console-based Bus Seat Reservation System using data structures such as arrays, linked lists, doubly linked lists, stacks, and queues. Designed for efficient seat booking, cancellation, and management.
